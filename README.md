@@ -1,1 +1,1 @@
-# rm -s pel
+git rm
